@@ -15,7 +15,7 @@ Compatible with Python 2.7 and 3+.
 
 ### Clone repository
 
-- ```git clone git@github.com:kaarora123/nytimes-top-stories.git```
+- ```git clone git@github.com:kashiish/nytimes-top-stories.git```
 - ```cd``` into your ```nytimes-top-stories``` directory
 - ```python setup.py install```
 

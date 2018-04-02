@@ -3,7 +3,7 @@ from setuptools import setup
 setup (
 
     name='nytimes-top-stories',
-    version='1.0.0',
+    version='1.0.1',
     description='Python wrapper for NYTimes Top Stories API',
     long_description=open('README.rst').read(),
     url='http://github.com/kashiish/nytimes-top-stories',
