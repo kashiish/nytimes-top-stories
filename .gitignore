@@ -1,0 +1,16 @@
+**/.DS_Store
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+*.__pycache__/
+*.py[cod]
+dist
+_pytest/_version.py
+.Python/
+.pytest_cache
+.cache
+README.rst
+.nytimes_top_stories.egg-info
+build/
+dist/
