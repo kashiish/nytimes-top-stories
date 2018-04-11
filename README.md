@@ -1,5 +1,7 @@
 # nytimes-top-stories
 
+[![Build Status](https://travis-ci.org/kashiish/nytimes-top-stories.svg?branch=master)](https://travis-ci.org/kashiish/nytimes-top-stories)
+
 `nytimes-top-stories` is a simple Python wrapper for New York Times' Top Stories API.
 
 Compatible with Python 2.7 and 3+.
